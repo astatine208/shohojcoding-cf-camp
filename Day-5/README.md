@@ -1,3 +1,3 @@
-# Day 4 Solutions
+# Day 5 Solutions
 
-Problems solved in Day 4 of the Shohoj Coding 90 Days CF Camp.
+Problems solved in Day 5 of the Shohoj Coding 90 Days CF Camp.
